@@ -47,3 +47,4 @@ namespace Ticketing
         }
      }
 }
+// example for small child discount
