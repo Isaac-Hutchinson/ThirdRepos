@@ -47,5 +47,9 @@ namespace Ticketing
         }
      }
 }
+<<<<<<< HEAD
 
 // example of add back stall
+=======
+// example for small child discount
+>>>>>>> feat1.2_discount_type
